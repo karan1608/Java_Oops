@@ -14,7 +14,7 @@ class dd extends Super{
 class inheritance1 {
     public static void main(String[] args) {
         dd obj1 = new dd();
-        obj1.derived1();
+        obj1.derived1(); //calling derived class
     }
 }
 
